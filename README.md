@@ -1,2 +1,2 @@
-# react-notification
-Übung, um mit einer Dokumentation klarzukommen.
+# React Notification
+## Übung, um mit einer Dokumentation klarzukommen.
